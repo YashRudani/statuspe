@@ -2,9 +2,9 @@
 
 **Effective Date:** 19 January 2026  
 **Developer:** Laugh Logic Labs  
-**Contact Email:** info@laughlogiclabs.com
+**Contact Email:** info@laughlogiclabs.com  
 
-**Status Pe is an ad-supported mobile application.**
+**Status Pe is a privacy-friendly mobile application and does not display advertisements.**
 
 This Privacy Policy explains how the Status Pe mobile application (the “App”) handles user data. The App is available globally on the Google Play Store.
 
@@ -12,16 +12,14 @@ This Privacy Policy explains how the Status Pe mobile application (the “App”
 
 ## 1. Information We Collect
 
-The App itself does not collect, store, or transmit any personal information such as name, email address, phone number, or user-generated content to our servers.
+The App does **not collect, store, or transmit any personal information** such as:
 
-However, the App displays advertisements using third-party ad services such as Google AdMob. These ad providers may automatically collect limited non-personally identifiable information, including:
+- Name  
+- Email address  
+- Phone number  
+- User-generated content  
 
-- Advertising ID  
-- Device type and operating system  
-- IP address (used for ad serving and fraud prevention)  
-- Ad interaction data (such as impressions and clicks)
-
-We do not have access to or control over the data collected by these ad providers.
+We do not require user accounts or registration.
 
 ---
 
@@ -30,32 +28,26 @@ We do not have access to or control over the data collected by these ad provider
 When you use the App:
 
 - You may enter a name and upload a profile image.
-- This data is stored only on your device (local storage, cache, or app preferences).
-- This information is not uploaded to our servers.
+- This data is stored **only on your device** (local storage, cache, or app preferences).
+- This information is **never uploaded to our servers**.
 - When you uninstall the App, this local data is automatically removed.
 
 ---
 
 ## 3. Server Data (Feed Images)
 
-- The App fetches images from our servers or content delivery networks (CDNs) to display in the feed.
-- These images are not associated with any personal user information.
-- We do not track or store which user accessed which image.
-- All network communication uses HTTPS encryption.
+- The App fetches images from our servers or content delivery networks (CDNs) to display content.
+- These images are **not associated with any personal user information**.
+- We **do not track, log, or store user activity**, including which images are viewed.
+- All network communication is secured using HTTPS encryption.
 
 ---
 
-## 4. Advertisements
+## 4. Third-Party Services
 
-The App shows advertisements provided by Google AdMob.
-
-Ad networks may collect certain information automatically to:
-- Display and measure advertisements
-- Prevent fraud and abuse
-- Improve ad performance
-
-More information about Google’s advertising data usage can be found at:  
-https://policies.google.com/technologies/ads
+- The App **does not use third-party advertising services**.
+- The App does **not use analytics or tracking tools**.
+- No third-party services collect user data through the App.
 
 ---
 
@@ -63,44 +55,41 @@ https://policies.google.com/technologies/ads
 
 The App may request the following permissions:
 
-- Storage / Media Access: Used only to save or read images that you choose to download or cache locally on your device.
+- **Storage / Media Access**: Used only to save or read images that you choose to download or cache locally.
 
-The App does not request access to:
-- Camera or microphone
-- Location data (GPS or network-based)
-- Contacts, SMS, or call logs
+The App does **not request access to**:
+
+- Camera or microphone  
+- Location data (GPS or network-based)  
+- Contacts, SMS, or call logs  
 
 ---
 
 ## 6. Data Sharing
 
-We do not share any personal user data with third parties.
-
-Limited device-level information may be collected directly by third-party advertising providers (such as Google AdMob) as described in this Privacy Policy. This data is governed by the ad provider’s own privacy policies.
+- We **do not share any user data** with third parties.
+- Since we do not collect personal data, there is nothing to share.
 
 ---
 
 ## 7. Data Retention
 
-- We do not store personal data on our servers.
-- Any data stored locally on your device is removed when you uninstall the App.
-- Data collected by ad providers is retained according to their respective privacy policies.
+- We do **not store any personal data on our servers**.
+- Any data stored locally remains on your device and is removed upon uninstall.
 
 ---
 
 ## 8. Security
 
-- All data transferred between the App and our servers is protected using HTTPS encryption.
-- Our servers do not store personal user data.
-- We follow industry best practices to secure the content and services we provide.
+- All communication between the App and servers is protected using HTTPS encryption.
+- We follow industry best practices to ensure the security of our services.
 
 ---
 
 ## 9. Children’s Privacy
 
 - The App is not directed at children under the age of 13.
-- We do not knowingly collect personal information from children.
-- If you believe a child has provided information through ad services, please refer to the ad provider’s privacy controls.
+- We do not knowingly collect any personal information from children.
 
 ---
 
@@ -114,7 +103,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: info@laughlogiclabs.com
+**Email:** info@laughlogiclabs.com  
 
 ---
 
@@ -122,8 +111,8 @@ Email: info@laughlogiclabs.com
 
 For the purposes of the Google Play Data Safety form, the App declares:
 
-- Data collection: Yes (by third-party ad providers)
-- Data sharing: Yes (limited, for advertising purposes)
-- Data usage purpose: Advertising
-- Encryption in transit: Yes
-- Data deletion: Managed by the ad provider (e.g., Google AdMob)
+- **Data collection:** No  
+- **Data sharing:** No  
+- **Data usage purpose:** Not applicable  
+- **Encryption in transit:** Yes  
+- **Data deletion:** Not applicable (no data collected)
